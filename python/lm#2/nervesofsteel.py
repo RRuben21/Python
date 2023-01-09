@@ -1,0 +1,16 @@
+import time
+import random
+print ('Players Stand')
+time.sleep(.7)
+print ('Last to sit down wins')
+time.sleep(.7)
+print ('players still standing after time is finsied are eliminated')
+print ('.')
+time.sleep(.7)
+print ('.')
+time.sleep(.7)
+print ('.')
+time.sleep(.7)
+print ('Start!')
+time.sleep(random.randint(5,20))
+print ('End of timer!')
